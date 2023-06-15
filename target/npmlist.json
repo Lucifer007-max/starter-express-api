@@ -1,0 +1,39 @@
+{
+    "version": "1.0.0",
+    "name": "node-mssql-registration-login-api",
+    "dependencies": {
+        "bcryptjs": {
+            "version": "2.4.3"
+        },
+        "cors": {
+            "version": "2.8.5"
+        },
+        "express-jwt": {
+            "version": "6.1.2"
+        },
+        "express": {
+            "version": "4.18.1"
+        },
+        "joi": {
+            "version": "17.6.0"
+        },
+        "jsonwebtoken": {
+            "version": "8.5.1"
+        },
+        "multer": {
+            "version": "1.4.5-lts.1"
+        },
+        "mysql2": {
+            "version": "2.3.3"
+        },
+        "rootpath": {
+            "version": "0.1.2"
+        },
+        "sequelize": {
+            "version": "6.21.2"
+        },
+        "tedious": {
+            "version": "14.6.1"
+        }
+    }
+}
