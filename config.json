@@ -1,16 +1,16 @@
 {
-    "dbName": "twittertrends",
+    "dbName": "sql12626509",
     "dbConfig": {
-        "server": "localhost",
+        "server": "sql12.freesqldatabase.com",
         "options": {
-            "port": 4000,
+            "port": 3306,
             "trustServerCertificate": true
         },
         "authentication": {
             "type": "default",
             "options": {
-                "userName": "root",
-                "password": ""
+                "userName": "sql12626509",
+                "password": "GeY6wRAGdZ"
             }
         }
     },
